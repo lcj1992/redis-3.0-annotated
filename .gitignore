@@ -25,3 +25,11 @@ deps/lua/src/liblua.a
 .make-*
 .prerequisites
 *.dSYM
+.idea/
+CMakeLists.txt
+cluster.tar.gz
+cluster/
+cscope.in.out
+cscope.out
+cscope.po.out
+tags
